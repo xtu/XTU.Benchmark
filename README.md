@@ -3,6 +3,8 @@ This repository is created for storing benchmark code and results.
 
 To view the result, check the README.md file in each benchmark folder.
 
+Code quality status: [![CodeQL](https://github.com/xtu/XTU.Benchmark/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/xtu/XTU.Benchmark/actions/workflows/codeql-analysis.yml)
+
 # Build
 To build the source code:
 ```
