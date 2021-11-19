@@ -1,6 +1,8 @@
 # Introduction
 This repository is created for storing benchmark code and results.
 
+To view the result, check the README.md file in each benchmark folder.
+
 # Build
 To build the source code:
 ```
