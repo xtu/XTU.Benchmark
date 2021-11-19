@@ -1,0 +1,6 @@
+{
+    "files.exclude": {
+        "BenchmarkDotNet.Artifacts/": true,
+        "bin": true
+    }
+}
