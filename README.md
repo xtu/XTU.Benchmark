@@ -10,5 +10,5 @@ dotnet build
 # Run
 Run the application and following the instructions to run each benchmark.
 ```
-dotnet run --framework net6.0
+dotnet run -c Release -f net6.0
 ```
